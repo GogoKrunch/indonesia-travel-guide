@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <p className="flex items-center text-gray-400">
                 <MapPin size={18} className="mr-2 text-emerald-400" />
-                Jakarta, Indonesia
+                Kalimantan Tengah, Indonesia
               </p>
               <p className="flex items-center text-gray-400">
                 <Mail size={18} className="mr-2 text-emerald-400" />
@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
               </p>
               <p className="flex items-center text-gray-400">
                 <Phone size={18} className="mr-2 text-emerald-400" />
-                +62 123 4567 890
+                +62 831 5926 7750
               </p>
             </div>
           </div>
